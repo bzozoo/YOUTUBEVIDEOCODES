@@ -1,0 +1,36 @@
+.header-container {
+  width: 100%;
+  background-color: black;
+}
+
+.navbar {
+  width: 90%;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.navbar ul {
+  margin: 0;
+  padding: 0px;
+}
+
+.navbar ul li {
+  list-style: none;
+  float: left;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  border-right: 1px solid lightblue;
+}
+
+.navbar ul li a {
+  padding-left: 10px;
+  color: white;
+  text-decoration: none;
+  line-height: 50px;
+  display: block;
+}
+
+.navbar a:hover {
+  color: aqua;
+}
