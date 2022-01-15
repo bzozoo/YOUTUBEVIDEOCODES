@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	background-color: #1e1e1e;
+}
+
+.box {
+	background-image: url('https://i.imgur.com/oE3nY7U.jpg');
+	background-clip: text;
+	-webkit-background-clip: text;
+	background-size: contain;
+	color: transparent;
+	font-size: 4rem;
+	font-weight: 600;
+	filter: blur(1px);
+}
